@@ -1,4 +1,4 @@
-![Estático](https://img.shields.io/badge/Legion--del--Mal-Ultima--Versión-blue)
+ ![Estático](https://img.shields.io/badge/Legion--del--Mal-Ultima--Versión-blue)
 
 ![Con logo](https://img.shields.io/badge/Git-2.45-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -14,7 +14,7 @@
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
 
-## ¿Quiénes somos?
+## ¿Quiénes somos? - Remoto
 
 Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo.
 

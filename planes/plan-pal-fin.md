@@ -1,1 +1,0 @@
-que once que hay que hacer

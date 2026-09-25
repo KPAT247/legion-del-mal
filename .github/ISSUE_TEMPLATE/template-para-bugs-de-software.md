@@ -4,7 +4,7 @@ about: Ayudanos a mejorar
 title: 'Bug: '
 labels: ''
 assignees: KPAT247
-type: Bug
+type: Feature
 
 ---
 

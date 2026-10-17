@@ -35,16 +35,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Instalar tranmision de la legion
-        run: sudo apt-get install -y cowsay 
+      - name: Instalar transmision de la legion
+        run: sudo apt-get update && sudo apt-get install -y cowsay
 
       - name: Imprimir inputs
         run: |
+          # Agregar /usr/games al PATH de esta sesión
+          export PATH=$PATH:/usr/games
+
           echo "=============================="
           echo "    Transmision interceptada"
           echo "=============================="
           echo ""
-          echo "De: ${{inputs.villano}}" 
+          echo "De: ${{ inputs.villano }}" 
           echo ""
           echo "Fecha: $(date -u +"%d/%m/%Y - %H:%M UTC")"
 
@@ -53,5 +56,4 @@ jobs:
           echo ""
           echo "--- ${{ inputs.villano }}"
           echo "..."
-
 

@@ -9,3 +9,9 @@ wdi uegiuf bneneui bruierurnei.
 2.
 3.
 4.
+
+
+## Plan de escape
+
+- ese wey
+- mknmnmnmn

@@ -9,3 +9,8 @@ El objetivo es iwuerfbieurbieurfboebrfoiebreubfiuebrfeb
 4. 
 5.
 6. 
+
+## Plan de escape
+
+- simon que si 
+- yeees
